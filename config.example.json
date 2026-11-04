@@ -1,0 +1,6 @@
+{
+  "_comment": "复制为 .private/config.json 并将文件权限设为 600。除未来荟外，当前接口无需凭证。",
+  "weilaihui": {
+    "authorization": "从未来荟场地矩阵请求的 Authorization 请求头获取；不要提交到版本库"
+  }
+}
