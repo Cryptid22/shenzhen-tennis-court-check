@@ -33,7 +33,7 @@ ln -s "$(pwd)/shenzhen-tennis-court-check" ~/.codex/skills/shenzhen-tennis-court
 
 ## 使用
 
-本机默认的 `python3` 指向一个已损坏的旧版 Python 3.5，请明确使用 macOS 自带的 Python：
+在 macOS 上建议明确使用系统 Python：
 
 ```bash
 cd shenzhen-tennis-court-check
