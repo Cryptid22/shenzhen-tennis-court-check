@@ -1,0 +1,4 @@
+interface:
+  display_name: "网球球局推荐"
+  short_description: "查询周末网球小程序，支持修改出发点、时段预算和报名者筛选偏好"
+  default_prompt: "用 $tennis-game-finder 帮我找合适的网球局。"
